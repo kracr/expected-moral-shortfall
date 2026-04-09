@@ -1,2 +1,2 @@
 # expected-moral-shortfall
-This repository consists of code, documentation, tutorials, and other related artefacts related to the Expected Moral Shortfall (EMS) model. This model aims to incorporate ethical competence into AI systems with enhanced flexibility in terms of moral consideration and implementing diverse schools of thought.
+This repository consists of code and datasets related to the Expected Moral Shortfall (EMS) model. This model aims to incorporate ethical competence into AI systems with enhanced flexibility in terms of moral consideration and implementing diverse schools of thought. The EMS metric cuts of the worst-off moral cases to prevent high moral risk and prioritize morally "good" decisions.
